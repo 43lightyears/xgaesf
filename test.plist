@@ -29,9 +29,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.apple.testconception</string>
+                <string>com.apple.test</string>
                 <key>bundle-version</key>
-                <string>1.8.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
